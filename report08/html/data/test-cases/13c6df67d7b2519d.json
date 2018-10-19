@@ -1,0 +1,133 @@
+{
+  "uid" : "13c6df67d7b2519d",
+  "name" : "Test_001.test_001_1",
+  "fullName" : "test_001.Test_001.test_001_1",
+  "historyId" : "16633184f126cb7981120285250c88e0",
+  "time" : {
+    "start" : 1539851793644,
+    "stop" : 1539851793646,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "我是登陆测试方法",
+      "time" : {
+        "start" : 1539851793646,
+        "stop" : 1539851793646,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "输入用户名",
+        "time" : {
+          "start" : 1539851793646,
+          "stop" : 1539851793646,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "babcff50d3fb3714",
+          "name" : "登录/注册按钮",
+          "source" : "babcff50d3fb3714.txt",
+          "type" : "text/plain",
+          "size" : 55
+        }, {
+          "uid" : "bab4381b664fc6",
+          "name" : "输入框",
+          "source" : "bab4381b664fc6.txt",
+          "type" : "text/plain",
+          "size" : 27
+        }, {
+          "uid" : "ea7b357a248fae15",
+          "name" : "用户名",
+          "source" : "ea7b357a248fae15.txt",
+          "type" : "text/plain",
+          "size" : 24
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 3,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "输入密码",
+        "time" : {
+          "start" : 1539851793646,
+          "stop" : 1539851793646,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "txxdeMacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "1969-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_001"
+  }, {
+    "name" : "testClass",
+    "value" : "test_001"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_001.test_001_1"
+  }, {
+    "name" : "package",
+    "value" : "test_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "13c6df67d7b2519d.json",
+  "parameterValues" : [ ]
+}

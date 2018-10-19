@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "txxdeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "1969-MainThread",
+      "children" : [ {
+        "name" : "Test_001.test_001_1",
+        "uid" : "13c6df67d7b2519d",
+        "parentUid" : "3cb99fe85d9e26fd0f28e6942f682a7c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1539851793644,
+          "stop" : 1539851793646,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3cb99fe85d9e26fd0f28e6942f682a7c"
+    } ],
+    "uid" : "3c6fa91017440aba619fbb32a1ea3794"
+  } ]
+}
